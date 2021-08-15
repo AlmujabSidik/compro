@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+p {
+    color: blue;
+    display: flex;
+    text-align: justify;
+}
+
+.class {
+    color: purple;
+    font-size: 20px;
+}
+
+#Id {
+    color: orange;
+    font-size: 20px;
+}
